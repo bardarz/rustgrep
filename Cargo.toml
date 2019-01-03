@@ -1,0 +1,6 @@
+[package]
+name = "rustgreppo"
+version = "0.1.0"
+authors = ["Djenio <eugeniouccheddu@easy-network.it>"]
+
+[dependencies]
